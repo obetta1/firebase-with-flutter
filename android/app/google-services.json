@@ -1,0 +1,162 @@
+{
+  "project_info": {
+    "project_number": "605078883436",
+    "project_id": "note-app-56658",
+    "storage_bucket": "note-app-56658.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605078883436:android:5f7cc9647f5570c9e01c49",
+        "android_client_info": {
+          "package_name": "com.benji.firebaseDemo1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605078883436-fhbs8c4esgel7bhgqt95iffg0t4q6942.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZDfNwpgxYKDKEKUrKppLgJivDm5IjS1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605078883436-cs80vcn37aip6r7kj1j8bik3thjnjkq6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "605078883436-gk83e1ji20rc9egr29b3qjs4u4buncro.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.noteAppWithFirebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605078883436:android:9d12edc24b0edecbe01c49",
+        "android_client_info": {
+          "package_name": "com.benji.firebase_demo_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605078883436-fhbs8c4esgel7bhgqt95iffg0t4q6942.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZDfNwpgxYKDKEKUrKppLgJivDm5IjS1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605078883436-cs80vcn37aip6r7kj1j8bik3thjnjkq6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "605078883436-gk83e1ji20rc9egr29b3qjs4u4buncro.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.noteAppWithFirebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605078883436:android:68dad628150e5de5e01c49",
+        "android_client_info": {
+          "package_name": "com.example.note_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605078883436-fhbs8c4esgel7bhgqt95iffg0t4q6942.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZDfNwpgxYKDKEKUrKppLgJivDm5IjS1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605078883436-cs80vcn37aip6r7kj1j8bik3thjnjkq6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "605078883436-gk83e1ji20rc9egr29b3qjs4u4buncro.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.noteAppWithFirebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605078883436:android:de7190b1d859b79ce01c49",
+        "android_client_info": {
+          "package_name": "com.example.note_apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605078883436-uvscvjmb8fer5alh8722nd46mfo6jctf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.note_apps",
+            "certificate_hash": "88b93bec8abf7028a7659057ce9e9451f8b10235"
+          }
+        },
+        {
+          "client_id": "605078883436-fhbs8c4esgel7bhgqt95iffg0t4q6942.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZDfNwpgxYKDKEKUrKppLgJivDm5IjS1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605078883436-cs80vcn37aip6r7kj1j8bik3thjnjkq6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "605078883436-gk83e1ji20rc9egr29b3qjs4u4buncro.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.noteAppWithFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
